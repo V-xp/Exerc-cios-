@@ -1,0 +1,35 @@
+.cabecalho h1 {
+    font-size: 45px;
+    background-color: rgba(255, 255, 255, 0.993);
+    text-align: center;
+    padding: 0px;
+    color:rgb(243, 0, 243)
+    }
+
+
+
+h2 {
+    font-size: 24px; /* Tamanho da fonte */
+    color: #e100ff; /* Cor do texto */
+    text-align: vertical; /* Alinhamento do texto */
+    margin-top: 10px; /* Margem superior */
+    margin-bottom: 5px; /* Margem inferior */
+    font-weight: bold; /* Peso da fonte */
+    text-transform: uppercase; /* Transformar texto em maiúsculas */
+    letter-spacing: 2px; /* Espaçamento entre letras */
+}
+
+.split-text {
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .checkbox-container {
+        display: block;
+        position: relative;
+        padding-left: 30px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+    
+    }
